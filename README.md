@@ -1,4 +1,4 @@
-# Covid-Test-Triage-und-Vollmond-geburten
+# Covid-Test-Triage und Vollmond-geburten
 Data_wrangling (xlsx; csv)
 
 Dieses Projekt untersucht den Zusammenhang zwischen Mondphasen und Geburtenzahlen sowie die Datenanalyse zu Covid-Tests und -Ergebnissen.
